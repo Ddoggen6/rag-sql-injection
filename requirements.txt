@@ -3,3 +3,5 @@ sentence-transformers
 PyPDF2
 langchain-text-splitters
 python-dotenv
+flask
+flask-cors
